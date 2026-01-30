@@ -12,7 +12,7 @@ A full-stack web application for creating and managing notes, built with Django 
 - **PostgreSQL Database**: Robust data storage with PostgreSQL
 - **RESTful API**: Well-structured API endpoints with Django REST Framework
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 - **Django 5.0.6**: Python web framework
@@ -432,7 +432,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Add unit and integration tests
 - Set up CI/CD pipeline
 
-## 💡 Development Tips
+## Development Tips
 
 ### Backend
 - Use Django's built-in admin panel at `/admin` to manage data
